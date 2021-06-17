@@ -1,0 +1,21 @@
+Laurel Beltsville Senior Activity Center	(YEARLY WATER)
+
+
+MISSING DATA:
+        From         To   Days
+0 2014-09-10 2014-09-14 4 days
+
+
+                Cost
+Start Date          
+2011         2881.75
+2012         3236.98
+2013         2918.38
+2014         3396.95
+2015         7179.85
+2016        11495.05
+2017        12011.21
+2018        12842.77
+2019        18875.37
+2020         4923.97
+2021          644.22
